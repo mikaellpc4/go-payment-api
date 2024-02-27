@@ -23,7 +23,7 @@ go run .
 
 ## Payments
 - GET /payments: Retorna todos os pagamentos registrados.
-- POST /payment: Cria um novo pagamento.
+- POST /payment: Cria um novo pagamento e retorna um código PIX QRCode para o pagamento.
 - GET /payment/:id: Retorna um pagamento específico com base no ID.
 - PUT /payment/:id: Atualiza os detalhes de um pagamento existente.
 - DELETE /payment/:id: Exclui um pagamento existente.
