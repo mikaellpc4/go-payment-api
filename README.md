@@ -1,6 +1,3 @@
-Claro, aqui está uma versão mais organizada e compreensível do seu README:
-API de Pagamentos
-
 Esta API tem como objetivo integrar diversos aplicativos (plataformas) com um único gateway de pagamento principal. A ideia é simplificar a mudança de gateway de pagamento, caso seja necessário, sem causar problemas nos serviços já existentes.
 Como executar a aplicação
 
